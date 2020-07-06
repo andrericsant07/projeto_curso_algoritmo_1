@@ -10,6 +10,7 @@ Inicio
    leia (numero)
                                   .
    escreval (nome, "," ,numero, 25)
+   (VERIFICANDO APENAS)
    */
 
    var nome, numero

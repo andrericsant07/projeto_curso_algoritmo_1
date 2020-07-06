@@ -10,6 +10,7 @@ Inicio
       senao
       escreval ("Nota01 é igual")
    fimse
+   (VERIRIFANCO APENAS)
    */
 
    var nota01, nota02;
